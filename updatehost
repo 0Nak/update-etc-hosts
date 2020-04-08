@@ -28,7 +28,7 @@ echo -n introduce nuevo nombre de host:
 read newhn
 	else
 # Si dice quitar solo pide nombre 
-echo -n introduce nuevo nombre de host: 
+echo -n introduce el nombre del host a eliminar: 
 read newhn
 fi
 # Hostname para  add/remove.
